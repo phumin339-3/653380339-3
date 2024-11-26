@@ -1,5 +1,4 @@
 <html>  
-</head>
   <body>
     <h1>วิชา SC31006 Mobile and Web Application Development</h1>
     <ul>
