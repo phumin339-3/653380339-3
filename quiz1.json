@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "question": "2 + 2 เท่ากับเท่าไร?",
+      "choices": ["A. 3", "B. 4", "C. 5", "D. 6"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "5 × 6 เท่ากับเท่าไร?",
+      "choices": ["A. 30", "B. 20", "C. 25", "D. 35"],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "ใครคือประธานาธิบดีคนแรกของสหรัฐอเมริกา?",
+      "choices": ["A. George Washington", "B. Abraham Lincoln", "C. John F. Kennedy", "D. Franklin D. Roosevelt"],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "ชื่อเมืองหลวงของไทยคืออะไร?",
+      "choices": ["A. Chiang Mai", "B. Pattaya", "C. Bangkok", "D. Phuket"],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "วงดนตรีที่ร้องเพลง \"Hey Jude\" คือวงไหน?",
+      "choices": ["A. The Beatles", "B. ABBA", "C. Queen", "D. The Rolling Stones"],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "การทดลองทางวิทยาศาสตร์ที่สำคัญที่สุดในการพัฒนาไฟฟ้าเป็นใคร?",
+      "choices": ["A. Thomas Edison", "B. Albert Einstein", "C. Nikola Tesla", "D. Isaac Newton"],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "ชื่อของดาวเคราะห์ที่มีชื่อเล่นว่า \"ดาวอังคาร\" คืออะไร?",
+      "choices": ["A. Earth", "B. Mars", "C. Venus", "D. Jupiter"],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "วันแรกของปี 2020 ตรงกับวันอะไร?",
+      "choices": ["A. Monday", "B. Wednesday", "C. Friday", "D. Thursday"],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "\"La La Land\" เป็นภาพยนตร์แนวไหน?",
+      "choices": ["A. Drama", "B. Musical", "C. Thriller", "D. Action"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "สีของฟ้าสดใสคือสีอะไร?",
+      "choices": ["A. Blue", "B. Red", "C. Green", "D. Yellow"],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "ผู้หญิงที่เป็นนักการเมืองที่สำคัญในประเทศไทยคือใคร?",
+      "choices": ["A. Yingluck Shinawatra", "B. Sushila Ghosh", "C. Julia Gillard", "D. Indira Gandhi"],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "ต้นไม้ที่มีผลไม้เป็นสัญลักษณ์ของความรักคืออะไร?",
+      "choices": ["A. Apple", "B. Mango", "C. Orange", "D. Pineapple"],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "คนที่มีชื่อเสียงที่สุดในวงการฟุตบอลในอังกฤษคือใคร?",
+      "choices": ["A. Lionel Messi", "B. Cristiano Ronaldo", "C. David Beckham", "D. Kylian Mbappé"],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "ประเทศที่มีประชากรมากที่สุดในโลกคือประเทศไหน?",
+      "choices": ["A. India", "B. China", "C. USA", "D. Russia"],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "สัตว์ที่สามารถบินได้มีชื่อว่าอะไร?",
+      "choices": ["A. Bat", "B. Ostrich", "C. Elephant", "D. Kangaroo"],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "ดาวเคราะห์ที่มีขนาดใหญ่ที่สุดในระบบสุริยะคืออะไร?",
+      "choices": ["A. Earth", "B. Jupiter", "C. Mars", "D. Saturn"],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "ใครคือผู้เขียนนิยาย Harry Potter?",
+      "choices": ["A. J.K. Rowling", "B. George R.R. Martin", "C. Suzanne Collins", "D. J.R.R. Tolkien"],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "คำถามนี้มีคำตอบแบบไหน?",
+      "choices": ["A. A", "B. B", "C. C", "D. D"],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "โปรแกรมคอมพิวเตอร์ที่ใช้ในการสร้างเว็บไซต์คืออะไร?",
+      "choices": ["A. Photoshop", "B. Microsoft Word", "C. HTML", "D. Excel"],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "ใครเป็นนักประดิษฐ์หลอดไฟ?",
+      "choices": ["A. Albert Einstein", "B. Thomas Edison", "C. Nikola Tesla", "D. Alexander Graham Bell"],
+      "answer": 2
+    }
+  ]
+  
